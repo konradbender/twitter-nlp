@@ -1,4 +1,4 @@
-# twitter-nlp
+# Natural Language Processing with Transformers
  
 This is a little mini project where I attempted the Kaggle Challange: https://www.kaggle.com/competitions/nlp-getting-started
 
